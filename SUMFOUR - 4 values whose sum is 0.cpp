@@ -31,5 +31,5 @@ int main()
     return 0;
 }
 
-/unordered_map: http://codeforces.com/blog/entry/21853/
-/Technique:meet in the middle/
+/*unordered_map: http://codeforces.com/blog/entry/21853*/
+/*Technique:meet in the middle*/
